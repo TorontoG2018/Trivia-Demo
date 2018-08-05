@@ -1,0 +1,23 @@
+body{
+    font-family: 'Arial';
+    text-align: center;
+}
+
+#quiz{
+    margin-left:10px;
+    background: beige;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+    border-radius: 20px;
+    float: left;
+}
+
+input[type='radio'], label{   
+    vertical-align: baseline;
+    padding: 10px;
+    margin: 10px;
+ }
+
+ count{
+     font-size: 30px;
+ }
